@@ -1,0 +1,13 @@
+C:\Mimmitkoodaa\Dotnet\Laskin\bin\Debug\netcoreapp3.1\Laskin.exe
+C:\Mimmitkoodaa\Dotnet\Laskin\bin\Debug\netcoreapp3.1\Laskin.deps.json
+C:\Mimmitkoodaa\Dotnet\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.json
+C:\Mimmitkoodaa\Dotnet\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.dev.json
+C:\Mimmitkoodaa\Dotnet\Laskin\bin\Debug\netcoreapp3.1\Laskin.dll
+C:\Mimmitkoodaa\Dotnet\Laskin\bin\Debug\netcoreapp3.1\Laskin.pdb
+C:\Mimmitkoodaa\Dotnet\Laskin\obj\Debug\netcoreapp3.1\Laskin.csprojAssemblyReference.cache
+C:\Mimmitkoodaa\Dotnet\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfoInputs.cache
+C:\Mimmitkoodaa\Dotnet\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfo.cs
+C:\Mimmitkoodaa\Dotnet\Laskin\obj\Debug\netcoreapp3.1\Laskin.csproj.CoreCompileInputs.cache
+C:\Mimmitkoodaa\Dotnet\Laskin\obj\Debug\netcoreapp3.1\Laskin.dll
+C:\Mimmitkoodaa\Dotnet\Laskin\obj\Debug\netcoreapp3.1\Laskin.pdb
+C:\Mimmitkoodaa\Dotnet\Laskin\obj\Debug\netcoreapp3.1\Laskin.genruntimeconfig.cache
